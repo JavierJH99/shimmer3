@@ -7,3 +7,6 @@ Debug/
 /Release/
 
 /python_scripts/.idea/
+
+# ignorar ficheros en so macOS
+.DS_Store
