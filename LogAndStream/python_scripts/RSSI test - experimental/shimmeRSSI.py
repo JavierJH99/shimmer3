@@ -135,7 +135,7 @@ def device_inquiry_with_with_rssi(sock):
 
 dev_id = 0
 mac = []
-macIDs = ['00:06:66:72:2C:16', '00:06:66:72:3A:09', '00:06:66:46:B6:76', '00:06:66:D1:0F:96']
+macIDs = ['D8:47:8F:04:BC:A6']
 numDev = len(macIDs)
 
 print("Number of devices: %d", numDev)
