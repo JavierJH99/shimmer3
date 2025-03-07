@@ -10,3 +10,5 @@ Debug/
 
 # ignorar ficheros en so macOS
 .DS_Store
+
+/env
